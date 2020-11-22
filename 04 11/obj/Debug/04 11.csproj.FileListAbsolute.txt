@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\04 11\04 11\bin\Debug\04 11.exe.config
+C:\Users\Hp\source\repos\04 11\04 11\bin\Debug\04 11.exe
+C:\Users\Hp\source\repos\04 11\04 11\bin\Debug\04 11.pdb
+C:\Users\Hp\source\repos\04 11\04 11\obj\Debug\04 11.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\04 11\04 11\obj\Debug\_04_11.Form1.resources
+C:\Users\Hp\source\repos\04 11\04 11\obj\Debug\_04_11.Properties.Resources.resources
+C:\Users\Hp\source\repos\04 11\04 11\obj\Debug\04 11.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\04 11\04 11\obj\Debug\04 11.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\04 11\04 11\obj\Debug\04 11.exe
+C:\Users\Hp\source\repos\04 11\04 11\obj\Debug\04 11.pdb

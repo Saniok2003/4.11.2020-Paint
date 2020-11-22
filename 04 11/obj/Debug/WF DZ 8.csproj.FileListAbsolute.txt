@@ -1,0 +1,20 @@
+C:\Users\Hp\source\repos\04 11\04 11\bin\Debug\04 11.exe.config
+C:\Users\Hp\source\repos\04 11\04 11\bin\Debug\04 11.exe
+C:\Users\Hp\source\repos\04 11\04 11\bin\Debug\04 11.pdb
+C:\Users\Hp\source\repos\04 11\04 11\obj\Debug\WF DZ 8.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\04 11\04 11\obj\Debug\_04_11.Form1.resources
+C:\Users\Hp\source\repos\04 11\04 11\obj\Debug\_04_11.Properties.Resources.resources
+C:\Users\Hp\source\repos\04 11\04 11\obj\Debug\WF DZ 8.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\04 11\04 11\obj\Debug\WF DZ 8.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\04 11\04 11\obj\Debug\04 11.exe
+C:\Users\Hp\source\repos\04 11\04 11\obj\Debug\04 11.pdb
+C:\Users\ura19\Desktop\WF-DZ-8-master\04 11\bin\Debug\04 11.exe.config
+C:\Users\ura19\Desktop\WF-DZ-8-master\04 11\bin\Debug\04 11.exe
+C:\Users\ura19\Desktop\WF-DZ-8-master\04 11\bin\Debug\04 11.pdb
+C:\Users\ura19\Desktop\WF-DZ-8-master\04 11\obj\Debug\WF DZ 8.csprojAssemblyReference.cache
+C:\Users\ura19\Desktop\WF-DZ-8-master\04 11\obj\Debug\_04_11.Form1.resources
+C:\Users\ura19\Desktop\WF-DZ-8-master\04 11\obj\Debug\_04_11.Properties.Resources.resources
+C:\Users\ura19\Desktop\WF-DZ-8-master\04 11\obj\Debug\WF DZ 8.csproj.GenerateResource.cache
+C:\Users\ura19\Desktop\WF-DZ-8-master\04 11\obj\Debug\WF DZ 8.csproj.CoreCompileInputs.cache
+C:\Users\ura19\Desktop\WF-DZ-8-master\04 11\obj\Debug\04 11.exe
+C:\Users\ura19\Desktop\WF-DZ-8-master\04 11\obj\Debug\04 11.pdb
